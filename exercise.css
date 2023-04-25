@@ -1,0 +1,105 @@
+.body {
+    background-color: white;
+}
+
+.nav {
+    position: absolute;
+    width: 1920px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+
+    background: #000000;
+}
+
+.help {
+    position: absolute;
+    width: 1920px;
+    height: 110px;
+    left: 0px;
+    top: 100px;
+
+    background: #dadbf1;
+}
+
+.footer {
+    position: absolute;
+    width: 1920px;
+    height: 230px;
+    left: 0px;
+    top: 855px;
+
+    background: #000000;
+}
+
+.signin {
+    position: absolute;
+    width: 162px;
+    height: 55px;
+    left: 1727px;
+    top: 23px;
+
+    background: #4c5fd5;
+    border-radius: 8px;
+}
+
+.req {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 268px;
+    height: 55px;
+    left: 1426px;
+    top: 23px;
+
+    background: #000000;
+    border: 1px solid #ffffff;
+    border-radius: 8px;
+}
+
+.write {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1000px;
+    height: 80px;
+    left: 460px;
+    top: 100px;
+
+    background: #ffffff;
+    border: 2px solid #000000;
+    border-radius: 5px;
+}
+
+.logo {
+    position: absolute;
+    width: 51px;
+    height: 51px;
+    left: 32px;
+    top: 25px;
+}
+
+.box {
+    position: absolute;
+    width: 500px;
+    height: 150px;
+    background: #ffffff;
+}
+
+.sezioni {
+    position: absolute;
+    width: 188px;
+    height: 182px;
+
+    background: #0000;
+}
+
+.end {
+    position: absolute;
+    width: 260px;
+    height: 150px;
+    left: 1647px;
+    top: 80px;
+
+    background: #000000;
+}

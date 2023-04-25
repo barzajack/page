@@ -1,0 +1,180 @@
+.title {
+    position: relative;
+    width: 324px;
+    height: 62px;
+    left: 100px;
+    top: 19px;
+
+    font-family: 'Carlito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #ffffff;
+}
+
+.signin > p {
+    position: relative;
+
+    font-family: 'Carlito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    align-items: center;
+    text-align: center;
+    margin-top: 14px;
+
+    color: #ffffff;
+}
+
+.req > p {
+    position: relative;
+
+    font-family: 'Carlito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    align-items: center;
+    text-align: center;
+    margin-top: 14px;
+
+    color: #ffffff;
+}
+
+.help > p {
+    position: absolute;
+    width: 688px;
+    height: 89px;
+    left: 616px;
+    top: -160px;
+
+    font-family: 'Carlito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+.write > p {
+    position: absolute;
+    width: 181px;
+    height: 39px;
+    left: -20px;
+    top: -15px;
+
+    font-family: 'Carlito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+
+    align-items: center;
+    text-align: center;
+
+    color: lightgrey;
+}
+
+.box > h1 {
+    position: relative;
+    width: 414px;
+    height: 29px;
+    left: 100px;
+    top: -100px;
+
+    font-family: 'Carlito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+}
+
+.box > p {
+    position: relative;
+    width: 459px;
+    height: 68px;
+    left: 100px;
+    top: -110px;
+
+    font-family: 'Carlito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #000000;
+}
+
+.box > h3 {
+    position: relative;
+    width: 91px;
+    height: 29px;
+    left: 100px;
+    top: -120px;
+
+    font-family: 'Carlito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #0000ff;
+}
+
+.sezioni > h1 {
+    position: relative;
+    width: 168px;
+    height: 42px;
+    left: 10px;
+    top: 10px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #ffffff;
+}
+
+.sezioni > p {
+    position: relative;
+    width: 99px;
+    height: 11px;
+    left: 10px;
+    top: 5px;
+
+    font-family: 'Carlito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 11px;
+
+    color: #ffffff;
+}
+
+.end > p {
+    position: relative;
+    width: 219px;
+    height: 75px;
+    left: 10px;
+    top: 10px;
+
+    font-family: 'Carlito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #ffffff;
+}
